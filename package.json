@@ -1,0 +1,16 @@
+{
+  "name": "@tenru/graphql",
+  "version": "0.0.1",
+  "description": "Javascript wrapper to simply graphql queries",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeromenatio/graphql.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérôme Natio <natio.jerome@gmail.com>",
+  "license": "ISC"
+}
